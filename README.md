@@ -1,6 +1,8 @@
 # RGB to Gray Image Conversion and Anti-Aliasing
 This Python code is used for converting an RGB image to a grayscale image using the R+G+B/3 algorithm. It also contains a function for anti-aliasing which smooths out the image by averaging pixel values. The code imports the matplotlib.pyplot and matplotlib.image libraries.
 
+![image](https://user-images.githubusercontent.com/79662515/235304639-881de962-b764-4784-a7c9-463f8cf7013a.png)
+
 ## Functions
 The code includes the following functions:
 
